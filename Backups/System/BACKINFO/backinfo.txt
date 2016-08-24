@@ -1,0 +1,53 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: C:\Users\acutulli\AppData\Local\Temp\10\so0ppuj4.r4o\Backups\System
+# 15-07-10  10:30:46
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.01.1010
+
+  RobotWare Base
+  English
+  623-1 Multitasking
+  604-1 MultiMove Coordinated
+  Drive System IRB 120/140/260/360/1200/1400/1520/1600
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  IRB 120-0.58/3
+  Drive System IRB 120/140/260/360/1200/1400/1520/1600
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  IRB 120-0.58/3
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,,)
+SYSMOD\user.sys @ user.sys
+SYSMOD\LINKEDM.sys @ linkedm.sys
+PROGMOD\Action.mod @ action.mod
+PROGMOD\CalibData.mod @ calibdata.mod
+
+>>TASK2: (T_ROB2,,)
+SYSMOD\user.sys @ user.sys
+SYSMOD\LINKEDM.sys @ linkedm.sys
+PROGMOD\CalibData.mod @ calibdata.mod
+PROGMOD\Action2.mod @ action2.mod
+
+
+>>EOF:
