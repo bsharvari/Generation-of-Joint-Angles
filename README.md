@@ -7,3 +7,4 @@ number of links in the manipulator. The second term gives the lamda value for th
 The rows below give the lenghts of the various links. The first term in the first row of the trajectory file is the number of
 intermediate frames generated for the trajectory, and the second term is again lambda. The rows below give the x and y 
 co-ordinates for the tool-tip.
+The check-angles file can be used to see the error in the expected posittion of the tool-tip  compared to the generated positions.
